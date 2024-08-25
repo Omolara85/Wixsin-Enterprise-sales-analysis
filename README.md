@@ -17,6 +17,8 @@
 
 This dataset project was provided by Quantum Analysis NG, it all about an enterpise sales information, using the Index Match to bring out consolidation table in order toidentify the daily growth in sales, segment growth E.T.C 
 
+![Screenshot (5)](https://github.com/user-attachments/assets/74f3fc50-9435-4dd2-8215-e18475b9691c)
+
 ### Data Source
 
 Sales Data; the primary dataset use for this analysis is "INDEX MATCH"EXCEL FILE, containing information about each sales and product made by the company.
